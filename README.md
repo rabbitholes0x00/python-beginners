@@ -8,9 +8,9 @@
 * Package manager: `pip`
 * Total keywords in Python 3.9: `36`
 * Official sites: `https://www.python.org`
-## Python, Pros & Cons
-Pros & Cons in Python 2021
-### Pros
+## Python, Advantages & Disadvantages
+Advantages & Disadvantages in Python 2021
+### Advantages
 * Easy to Read, Learn and Write
 * Improved Productivity
 * Interpreted Language
@@ -18,7 +18,7 @@ Pros & Cons in Python 2021
 * Free and Open-Source
 * Vast Libraries Support
 * Portability
-### Cons
+### Disadvantages
 * Slow Speed
 * Not Memory Efficient
 * Weak in Mobile Computing
