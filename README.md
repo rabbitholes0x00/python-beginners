@@ -60,12 +60,12 @@ alias ipython="ipython3"
 ## Python, Articles & Tutorials
 List of Python Articles & Tutorials in English and Indonesian
 ## English
-### Basics
+## Basics:
 * [How Long Does It Take to Learn Python? - Real Python](https://realpython.com/how-long-does-it-take-to-learn-python)
 * [11 Beginner Tips for Learning Python Programming - Real Python](https://realpython.com/python-beginner-tips/)
 * [How to Use Python: Your First Steps - Real Python](https://realpython.com/python-first-steps/)
 * [Common Python Data Structures (Guide) - Real Python](https://realpython.com/python-data-structures/)
-### Intermediate
+## Intermediate:
 * [What Is Data Engineering and Is It Right for You? - Real Python](https://realpython.com/python-data-engineer/)
 * [Jupyter Notebook: An Introduction - Real Python](https://realpython.com/jupyter-notebook-introduction/)
 * [Object-Oriented Programming (OOP) in Python 3 - Real Python](https://realpython.com/python3-object-oriented-programming/)
@@ -78,9 +78,9 @@ List of Python Articles & Tutorials in English and Indonesian
 * [A Python Guide to the Fibonacci Sequence - Real Python](https://realpython.com/fibonacci-sequence-python/)
 * [Python & APIs: A Winning Combo for Reading Public Data - Real Python](https://realpython.com/python-api/)
 * [Thinking Recursively in Python - Real Python](https://realpython.com/python-thinking-recursively/)
-### Advanced
+## Advanced:
 * [Socket Programming in Python (Guide) - Real Python](https://realpython.com/python-sockets/)
-### Guide & Build Projects
+#### Guide & Build Projects:
 * [Learn IP Address Concepts With Python's ipaddress Module - Real Python](https://realpython.com/python-ipaddress-module/)
 * [Python and REST APIs: Interacting With Web Services - Real Python](https://realpython.com/api-integration-in-python/)
 * [Python Statistics Fundamentals: How to Describe Your Data - Real Python](https://realpython.com/python-statistics/)
