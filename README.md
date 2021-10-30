@@ -17,7 +17,6 @@
 - [Python, Articles & Tutorials](#python-articles--tutorials)
 
 ## Python, Advantages & Disadvantages
-Advantages & Disadvantages in Python 2021
 #### Advantages:
 * Easy to Read, Learn and Write
 * Improved Productivity
