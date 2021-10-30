@@ -4,7 +4,7 @@
 * First appeared: `1991`
 * Developer: `Python Software Foundation`
 * Paradigm: `imperative`, `functional`, `procedural`, `object-oriented`
-* Typing discipline: `dynamic` typing and `strong` types
+* Typing and types discipline: `dynamic` and `strong`
 * Package manager: `pip`
 * Total keywords in Python 3.9: `36`
 * Official sites: `https://www.python.org`
