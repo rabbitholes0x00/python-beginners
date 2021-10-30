@@ -9,6 +9,11 @@
 * Total keywords in Python 3.9: `36`
 * Official sites: `https://www.python.org`
 
+## Table of Contents
+- [Python, Advantages & Disadvantages](https://github.com/rabbitholes0x00/python-beginners#python-advantages--disadvantages)
+- [Python, Linux Installations](#python-linux-installations)
+- [Python, Commands](#python-commands)
+- [Python, PIP Commands](#python-pip-commands)
 - [Python, Articles & Tutorials](#python-articles--tutorials)
 
 ## Python, Advantages & Disadvantages
