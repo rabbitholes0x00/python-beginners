@@ -18,7 +18,7 @@
 
 ## Python, Advantages & Disadvantages
 Advantages & Disadvantages in Python 2021
-### Advantages
+#### Advantages:
 * Easy to Read, Learn and Write
 * Improved Productivity
 * Interpreted Language
@@ -26,7 +26,7 @@ Advantages & Disadvantages in Python 2021
 * Free and Open-Source
 * Vast Libraries Support
 * Portability
-### Disadvantages
+#### Disadvantages:
 * Slow Speed
 * Not Memory Efficient
 * Weak in Mobile Computing
