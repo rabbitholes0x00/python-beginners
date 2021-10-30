@@ -8,10 +8,8 @@
 * Package manager: `pip`
 * Total keywords in Python 3.9: `36`
 * Official sites: `https://www.python.org`
-
 ## Python, Pros & Cons
 Pros & Cons in Python 2021
-
 ### Pros
 * Easy to Read, Learn and Write
 * Improved Productivity
@@ -20,14 +18,12 @@ Pros & Cons in Python 2021
 * Free and Open-Source
 * Vast Libraries Support
 * Portability
-
 ### Cons
 * Slow Speed
 * Not Memory Efficient
 * Weak in Mobile Computing
 * Database Access
 * Runtime Errors
-
 ## Python, Linux Installations
 Many Unix-compatible operating systems, such as macOS and some Linux distributions, have Python installed by default; it's included in the base installation.
 
@@ -44,19 +40,49 @@ alias python="python3"
 alias pip="pip3"
 alias ipython="ipython3"
 ```
-
 ## Python, Commands
 * `python3 main.py`
-
 ## Python, PIP Commands
+[PIP Guides for Pythonistas](https://realpython.com/what-is-pip/) by [Real Python](https://realpython.com/)
+
 * `python3 -m venv my-venv`
 * `source my-venv/bin/activate`
 * `deactivate`
 * `pip list`
 * `pip freeze > requirements.txt`
-
-## Python, Tutorials
-* []()
-* []()
-* []()
-* []()
+## Python, Articles & Tutorials
+List of Python Articles & Tutorials in English and Indonesian
+## English
+### Basics
+* [How Long Does It Take to Learn Python? - Real Python](https://realpython.com/how-long-does-it-take-to-learn-python)
+* [11 Beginner Tips for Learning Python Programming - Real Python](https://realpython.com/python-beginner-tips/)
+* [How to Use Python: Your First Steps - Real Python](https://realpython.com/python-first-steps/)
+* [Common Python Data Structures (Guide) - Real Python](https://realpython.com/python-data-structures/)
+### Intermediate
+* [What Is Data Engineering and Is It Right for You? - Real Python](https://realpython.com/python-data-engineer/)
+* [Jupyter Notebook: An Introduction - Real Python](https://realpython.com/jupyter-notebook-introduction/)
+* [Object-Oriented Programming (OOP) in Python 3 - Real Python](https://realpython.com/python3-object-oriented-programming/)
+* [Reading and Writing Files in Python (Guide) - Real Python](https://realpython.com/read-write-files-python/)
+* [Exploring HTTPS With Python - Real Python](https://realpython.com/python-https/)
+* [Sorting Algorithms in Python - Real Python](https://realpython.com/sorting-algorithms-python/)
+* [Linked Lists in Python: An Introduction - Real Python](https://realpython.com/linked-lists-python/)
+* [The Python math Module: Everything You Need to Know - Real Python](https://realpython.com/python-math-module/)
+* [Recursion in Python: An Introduction - Real Python](https://realpython.com/python-recursion/)
+* [A Python Guide to the Fibonacci Sequence - Real Python](https://realpython.com/fibonacci-sequence-python/)
+* [Python & APIs: A Winning Combo for Reading Public Data - Real Python](https://realpython.com/python-api/)
+* [Thinking Recursively in Python - Real Python](https://realpython.com/python-thinking-recursively/)
+### Advanced
+* [Socket Programming in Python (Guide) - Real Python](https://realpython.com/python-sockets/)
+### Guide & Build Projects
+* [Learn IP Address Concepts With Python's ipaddress Module - Real Python](https://realpython.com/python-ipaddress-module/)
+* [Python and REST APIs: Interacting With Web Services - Real Python](https://realpython.com/api-integration-in-python/)
+* [Python Statistics Fundamentals: How to Describe Your Data - Real Python](https://realpython.com/python-statistics/)
+* [Build a Recommendation Engine With Collaborative Filtering - Real Python](https://realpython.com/build-recommendation-engine-collaborative-filtering/)
+* [How to Make a Twitter Bot in Python With Tweepy - Real Python](https://realpython.com/twitter-bot-python-tweepy/)
+* [An Intro to Threading in Python - Real Python](https://realpython.com/intro-to-python-threading/)
+* [Python’s Requests Library (Guide) - Real Python](https://realpython.com/python-requests/)
+* [Working With JSON Data in Python](https://realpython.com/python-json/)
+## Indonesian
+* [Tutorial Pemrograman Python - Petani Kode](https://www.petanikode.com/tutorial/python)
+* [Learn Python Programming - Programiz](https://www.programiz.com/python-programming)
+* [Python Tutorial - Pythonindo](https://www.pythonindo.com/)
