@@ -54,3 +54,9 @@ alias ipython="ipython3"
 * `deactivate`
 * `pip list`
 * `pip freeze > requirements.txt`
+
+## Python, Tutorials
+* []()
+* []()
+* []()
+* []()
