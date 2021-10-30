@@ -44,7 +44,7 @@ alias ipython="ipython3"
 ```
 
 ## Python, Commands
-* `python3 *.py`
+* `python3 main.py`
 
 ## Python, PIP Commands
 * `python3 -m venv lifz_venv`
