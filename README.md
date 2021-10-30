@@ -11,6 +11,7 @@
 
 ## Python, Pros & Cons
 Pros & Cons in Python 2021
+
 ### Pros
 * Easy to Read, Learn and Write
 * Improved Productivity
@@ -19,6 +20,7 @@ Pros & Cons in Python 2021
 * Free and Open-Source
 * Vast Libraries Support
 * Portability
+
 ### Cons
 * Slow Speed
 * Not Memory Efficient
@@ -29,7 +31,7 @@ Pros & Cons in Python 2021
 ## Python, Linux Installationss
 Many Unix-compatible operating systems, such as macOS and some Linux distributions, have Python installed by default; it's included in the base installation.
 
-Check python version by following this command `python3 --version` and show default pre-install libraries with `pip3 list`
+Check python version by following this command `python3 --version` and show default pre-install libraries with `pip3 list` then check location of python program using `whereis python3`
 
 Install interpreted python, put this command on terminal
 ```zsh
