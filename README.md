@@ -28,7 +28,7 @@ Pros & Cons in Python 2021
 * Database Access
 * Runtime Errors
 
-## Python, Linux Installationss
+## Python, Linux Installations
 Many Unix-compatible operating systems, such as macOS and some Linux distributions, have Python installed by default; it's included in the base installation.
 
 Check python version by following this command `python3 --version` and show default pre-install libraries with `pip3 list` then check location of python program using `whereis python3`
