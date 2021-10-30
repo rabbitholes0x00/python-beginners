@@ -33,7 +33,7 @@ Check python version by following this command `python3 --version` and show defa
 
 Install interpreted python, put this command on terminal
 ```zsh
-sudo apt install python3
+sudo apt install ipython3
 ```
 
 Put on `~/.zshrc` for use python3 by default
