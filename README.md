@@ -1,6 +1,6 @@
 # README!
 * Name: `Python`
-* Designed by: `Guido van Rossum` at `Centrum Wiskunde & Informatica (CWI) `
+* Designed by: `Guido van Rossum` at `Centrum Wiskunde & Informatica (CWI)`
 * First appeared: `1991`
 * Developer: `Python Software Foundation`
 * Paradigm: `imperative`, `functional`, `procedural`, `object-oriented`
