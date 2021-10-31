@@ -88,13 +88,12 @@ List of Python Articles & Tutorials in English and Indonesian
 * [Python’s Requests Library (Guide) - Real Python](https://realpython.com/python-requests/)
 * [Reading and Writing Files in Python (Guide) - Real Python](https://realpython.com/read-write-files-python/)
 * [Generating Random Data in Python (Guide) - Real Python](https://realpython.com/python-random/)
-* [Unicode & Character Encodings in Python: A Painless Guide - Real Python](https://realpython.com/python-encodings-guide/)
+* [Unicode & Character Encodings in Python: A Painless (Guide) - Real Python](https://realpython.com/python-encodings-guide/)
 #### Build Projects:
 * [Build a Recommendation Engine With Collaborative Filtering - Real Python](https://realpython.com/build-recommendation-engine-collaborative-filtering/)
 * [How to Make a Twitter Bot in Python With Tweepy - Real Python](https://realpython.com/twitter-bot-python-tweepy/)
 * [Beautiful Soup: Build a Web Scraper With Python - Real Python](https://realpython.com/beautiful-soup-web-scraper-python/)
 * [Python AI: How to Build a Neural Network & Make Predictions - Real Python](https://realpython.com/python-ai-neural-network/)
-* [ - Real Python]()
 * [Pandas Project: Make a Gradebook With Python & Pandas - Real Python](https://realpython.com/pandas-project-gradebook/)
 ## Indonesian
 * [Tutorial Pemrograman Python - Petani Kode](https://www.petanikode.com/tutorial/python)
